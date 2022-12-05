@@ -54,10 +54,7 @@ const Header = () => {
         <Nav>
           <Dropdown alignRight>
             <Dropdown.Toggle variant="success">
-              <Link to={"/cart"}>
-                <FaShoppingCart color="white" fontSize="25px" />
-              </Link>
-              {/* <Badge>{JSON.parse(sessionStorage.getItem("data")).length}</Badge> */}
+              <Link to={'/cart'}><FaShoppingCart color="white" fontSize="25px" /></Link>
             </Dropdown.Toggle>
           </Dropdown>
         </Nav>

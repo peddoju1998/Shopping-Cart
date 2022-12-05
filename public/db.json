@@ -8,7 +8,8 @@
       "discountPercentage": 12.96,
       "rating": 4,
       "stock": 94,
-      "image": "https://i.dummyjson.com/data/products/1/thumbnail.jpg"
+      "image": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+      "currency": "EUR"
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "discountPercentage": 17.94,
       "rating": 4,
       "stock": 34,
-      "image": "https://i.dummyjson.com/data/products/2/thumbnail.jpg"
+      "image": "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+      "currency": "USD"
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "discountPercentage": 15.46,
       "rating": 4,
       "stock": 36,
-      "image": "https://i.dummyjson.com/data/products/3/thumbnail.jpg"
+      "image": "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
+      "currency": "JPR"
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "discountPercentage": 17.91,
       "rating": 4,
       "stock": 123,
-      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg"
+      "image": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+      "currency": "AUD"
     },
     {
       "id": 5,
