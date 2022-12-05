@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "source_currency": "USD",
+    "dest_curency": "INR",
+    "conv_ratio": "72.43"
+  },
+  {
+    "id": 2,
+    "source_currency": "EUR",
+    "dest_curency": "INR",
+    "conv_ratio": "118.45"
+  },
+  {
+    "id": 3,
+    "source_currency": "JPR",
+    "dest_curency": "INR",
+    "conv_ratio": "10.15"
+  },
+  {
+    "id": 4,
+    "source_currency": "AUD",
+    "dest_curency": "INR",
+    "conv_ratio": "47.54"
+  }
+]
